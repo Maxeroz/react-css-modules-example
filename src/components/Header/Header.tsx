@@ -7,7 +7,7 @@ export const Header = () => {
   return (
     <header className={styles.header}>
       <div className={styles.container}>
-        <h1 className={styles.title}>Мой Сайт-Визитка</h1>
+        <h1 className={styles.title}>Simple Website</h1>
         <nav className={styles.nav}>
           <a href="#about" className={styles.link}>
             <PersonIcon
